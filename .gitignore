@@ -1,0 +1,18 @@
+# Klipper / Moonraker working files
+klippy.log
+moonraker.log
+*.log
+
+# Klipper auto-generated files (kept in printer_data, not tracked here)
+printer_data/
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Editor artefacts
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
